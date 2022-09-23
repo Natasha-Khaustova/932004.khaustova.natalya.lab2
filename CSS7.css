@@ -1,0 +1,58 @@
+#FirstBlock
+{
+	background-color: blueviolet;
+	position: static;
+	width: 200px;
+	height: 130px;
+	color: white;
+}
+
+#SecondBlock
+{
+	background-color: darkred;
+	color: white;
+	position: relative;
+	width: 200px;
+	height: 130px;
+
+}
+
+#ThirdBlock
+{
+	background-color: peru;
+	color: white;
+	position: relative;
+	width: 200px;
+	height: 130px;
+	margin: -50px 0px 0 50px;
+}
+#ThourthBlock
+{
+	background-color: indianred;
+	position: relative;
+	width: 450px;
+	height: 270px;
+	color: white;
+	margin: 50px 0px 0 0%;
+}
+#FifthBlock
+{
+	background-color: indigo;
+	position: absolute;
+	width: 250px;
+	height: 120px;
+	color: white;
+	right: 0;
+	top: 90;
+}
+#SixthBlock
+{
+	background-color: green;
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	width: 100px;
+	height: 80px;
+	color: white;
+	z-index: -1;
+}

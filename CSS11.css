@@ -1,0 +1,18 @@
+#MainBlock
+{
+	border:2px solid limegreen;
+	background-color: aqua;
+	display: inline-block;
+
+}
+
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+#Hamster
+{
+	float: right;
+}

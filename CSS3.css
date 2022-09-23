@@ -1,0 +1,13 @@
+body
+{
+  margin: 0;
+  
+}
+div
+{
+  margin-left: 30%;
+  width: 650px;
+   color: white;
+  background-color:blue;
+  line-height: 1.4em;
+}

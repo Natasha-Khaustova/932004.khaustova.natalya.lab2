@@ -1,0 +1,30 @@
+#MainBlock
+{
+	background-color: aqua;
+	display: table;
+}
+
+#TextBlock
+{
+	background-color: darkgray;
+	margin: 0 0 0 200px;
+}
+#ListBlock
+{
+	background-color: bisque;
+	position: absolute;
+	left: 0;
+	margin-left: 8px;
+	margin-top: 8px;
+	top: 0;
+	width: 200px;
+}
+
+footer
+{
+	width: 100%;
+	height: 10%;
+	background-color: limegreen;
+	position: fixed;
+	bottom: 0;
+}

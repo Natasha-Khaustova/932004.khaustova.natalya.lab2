@@ -1,0 +1,18 @@
+#FloatBox
+{
+	background-color: aquamarine;
+	width: 250px;
+	height: 100px;
+	position: relative;
+	margin: 20px;
+
+}
+#ClearBox
+{
+	background-color: bisque;
+
+}
+body
+{
+	margin: 1px;
+}

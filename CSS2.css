@@ -1,0 +1,54 @@
+body
+{
+	margin: 0;
+  padding: 0;
+}
+
+header
+{
+	margin: 0px 0px 0px;
+	background-color: #EAEAEA;
+	padding: 5px;
+}
+
+#Margin
+{
+	margin: 0px 5px 0px;
+}
+
+#LeftColumn
+{
+	padding: 2px;
+	margin: 0px 0 0 ;
+	width: 25%;
+	background-color: #C8FC98;
+	line-height: 1.4em;
+	float: left;
+}
+
+#ContentColumn
+{
+	line-height: 1.4em;
+	margin: 0 5px 0;
+	margin: -15px 200px 0 26%;
+}
+#RightColumn
+{
+	float: right;
+	width: 200px;
+	margin: 0px 0 0;
+	background-color: #FDE95E;
+}
+footer
+{
+	background-color:black;
+	color: #FFFF80;
+	margin: 0px 0px;
+	padding: 0 49% 0;
+	position: fixed;
+	bottom: 0;
+}
+a
+{
+	color: #FFFF80;
+}

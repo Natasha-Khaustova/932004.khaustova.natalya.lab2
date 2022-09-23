@@ -1,0 +1,36 @@
+
+#MainBlock
+{
+	background-color: aqua;
+	display: table;
+	border: 2px solid limegreen;
+}
+
+#TextBlock
+{
+	background-color: darkgray;
+	margin: 0 0 0 200px;
+}
+#ListBlock
+{
+	background-color: bisque;
+	position: absolute;
+	left: 0;
+	margin-left: 8px;
+	margin-top: 8px;
+	top: 0;
+	width: 200px;
+	margin: 10px;
+}
+
+@media (max-width: 800px)
+{
+
+#TextBlock
+{
+	background-color: darkgray;
+	margin: 87px 0 0 0;
+}
+
+
+}

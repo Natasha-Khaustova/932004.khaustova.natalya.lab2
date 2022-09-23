@@ -1,0 +1,21 @@
+body
+{
+  margin: 0;
+  display: flex;
+  justify-content:center;
+  
+}
+.Content
+{
+  width: 700px;
+}
+#Text
+{
+
+  color: white;
+  background-color:blue;
+  line-height: 1.4em;
+}
+
+
+

@@ -1,0 +1,15 @@
+#ClearBlock
+{
+	background-color: bisque;
+
+
+}
+.InlineBlock
+{
+	background-color: aquamarine;
+	width: 200px;
+	height: 100px;
+	display: inline-block;
+	margin: 5px;
+
+}

@@ -1,0 +1,14 @@
+
+#MainBlock
+{
+  margin-right: auto;
+  margin-left: auto;
+  width: 700px;
+   color: white;
+  background-color:blue;
+  line-height: 1.4em;
+}
+#Hamster
+{
+  float: right;
+}

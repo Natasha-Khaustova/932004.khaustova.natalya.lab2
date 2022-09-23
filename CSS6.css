@@ -1,0 +1,24 @@
+body{
+  margin: 0;
+  
+}
+#FirstBlock
+{
+  width: 500px;
+  color: black;
+  background-color:white;
+  line-height: 1.4em;
+  margin-right: auto;
+  margin-left: auto;
+}
+#SecondBlock
+{
+  width: 450px;
+  color: black;
+  background-color:white;
+  line-height: 1.4em;
+  border:10px solid blue;
+  padding: 20px;
+  margin-right: auto;
+  margin-left: auto;
+}
