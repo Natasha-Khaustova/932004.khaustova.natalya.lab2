@@ -3,12 +3,13 @@
 	background-color: aquamarine;
 	width: 250px;
 	height: 100px;
-	position: relative;
-	margin: 20px;
+	float: left;
+	margin: 10px;
 
 }
 #ClearBox
 {
+	clear: both;
 	background-color: bisque;
 
 }
