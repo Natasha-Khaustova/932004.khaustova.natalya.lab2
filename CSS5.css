@@ -1,24 +1,17 @@
-body
-{
-  margin: 0;
-  
-}
 #Block1
 {
-  margin-right: auto;
-  margin-left: auto;
-  width: 35%;
-   color: white;
+  margin: auto;
+  width: 550px;
+  color: white;
   background-color:green;
   line-height: 1.4em;
 }
 #Block2
 {
   padding: 40px;
-    margin-right: auto;
-  margin-left: auto;
-  width: 40%;
-   color: white;
+  width: 550px;
+  margin: auto;
+  color: white;
   background-color:blue;
   line-height: 1.4em;
   border:5px solid blue;
